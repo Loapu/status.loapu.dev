@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/loapu.dev.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "81.01%",
+    "uptime": "81.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "80.66%",
-    "time": 499,
-    "timeDay": 728,
+    "uptimeYear": "80.93%",
+    "time": 501,
+    "timeDay": 621,
     "timeWeek": 743,
-    "timeMonth": 718,
-    "timeYear": 613,
+    "timeMonth": 715,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2024-11-07": 19,
       "2024-08-05": 578,
@@ -87,8 +87,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
-      "2023-12-01": 1440,
-      "2023-11-30": 1440
+      "2023-12-01": 1440
     }
   },
   {
@@ -102,11 +101,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 179,
-    "timeDay": 193,
-    "timeWeek": 210,
-    "timeMonth": 238,
-    "timeYear": 193,
+    "time": 180,
+    "timeDay": 342,
+    "timeWeek": 222,
+    "timeMonth": 245,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2024-10-22": 28
     }
