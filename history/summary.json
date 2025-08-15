@@ -16,7 +16,7 @@
     "timeMonth": 159,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2025-08-15": 1348,
+      "2025-08-15": 1359,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
@@ -271,19 +271,19 @@
     "url": "https://docs.loapu.dev",
     "icon": "https://icons.duckduckgo.com/ip3/docs.loapu.dev.ico",
     "slug": "documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 317,
-    "timeDay": 288,
-    "timeWeek": 335,
-    "timeMonth": 300,
+    "timeDay": 259,
+    "timeWeek": 320,
+    "timeMonth": 297,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2025-08-15": 0,
+      "2025-08-15": 11,
       "2024-10-22": 28
     }
   }
